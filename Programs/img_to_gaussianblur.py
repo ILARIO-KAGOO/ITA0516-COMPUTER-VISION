@@ -1,6 +1,4 @@
-#Perform basic Image Handling and processing operations on the
-#image is Read an image in python and Convert an Image to Blur
-#using Gaussian Blur
+#Perform basic Image Handling and processing operations on the image is Read an image in python and Convert an Image to Blur using Gaussian Blur
 
 import cv2
 path = "D:\Workspace (VS Code)\College\Slot-B-Computer Vision\Input\cat.jpg"
